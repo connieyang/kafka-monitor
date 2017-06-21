@@ -1,4 +1,4 @@
-# Kafka Monitor
+# Kafka Monitor - LinkedIn Kafka Monitor
 
 [![Build Status](https://travis-ci.org/linkedin/kafka-monitor.svg?branch=master)](https://travis-ci.org/linkedin/kafka-monitor)
 
